@@ -22,5 +22,6 @@ Gem::Specification.new do |gem|
 
   gem.add_development_dependency("motion-stump")
   gem.add_development_dependency("motion-redgreen")
+  gem.add_development_dependency("formotion")
   gem.add_development_dependency("rake")
 end
